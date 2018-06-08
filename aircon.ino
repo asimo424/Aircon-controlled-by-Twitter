@@ -175,14 +175,6 @@ if(temp<26){
       }
 
 
-
-
-
-
-
-
-
-
       f_done = true;
       post_msg += String(i) + ", ";
     }
